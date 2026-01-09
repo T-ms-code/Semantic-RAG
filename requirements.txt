@@ -1,0 +1,9 @@
+openai
+azure-search-documents
+azure-identity
+python-dotenv
+langchain
+langchain-community
+langchain-openai
+langchain-text-splitters
+azure-storage-blob

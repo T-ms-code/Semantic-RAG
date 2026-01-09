@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment Variables (FOARTE IMPORTANT - aici sunt cheile Azure!)
+.env
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Azure logs or temp files
+*.log
+
+# DS_Store (Mac)
+.DS_Store
