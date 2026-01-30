@@ -181,7 +181,7 @@ def main():
     )
     
     #Adaugam documentele (asta creeaza indexul automat daca nu exista)
-    # Trimit documentele cate 50, nu toate odata, ca s-a blocat inainte...
+    # Trimit documentele cate 10, nu toate odata, ca s-a blocat inainte...
     BATCH_SIZE = 10
     total_docs = len(enriched_docs)
     
