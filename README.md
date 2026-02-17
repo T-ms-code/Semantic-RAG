@@ -128,6 +128,7 @@ AZURE_STORAGE_CONTAINER_NAME=your-azure-storage-container-name
 
 ### RUNNING THE CODE
 ```bash
+python ./create_index_with_metadate.py ## index
 python ./chat_without_metadate.py ## Standard RAG (Baseline)
 python ./chat_with_metadate.py ## SEMANTIC RAG (Proposed Method)
 ```
